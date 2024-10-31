@@ -1,1 +1,1 @@
-# UNLOCK
+TFT Tool is very important for those who do mobile repairing. Because with its help, software repair of many mobiles can be done. You can use it now for your personal mobile. By installing this software in your computer or laptop, you can use it absolutely free. You can use any features of TFT Tool for free.
