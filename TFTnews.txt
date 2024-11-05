@@ -1,0 +1,11 @@
+TFT Unlock Tools-2024-4.7.2.2
+
+Qualcomm
+Fixed Read GPT
+Fixed Read Flash
+Fixed Write Flash
+Fixed Reset FRP
+Fixed MiCloud Patching
+Fixed Erase Userdata
+[Improved] UFS Chips Protocol
+[Improved] Auto Loader Detection
