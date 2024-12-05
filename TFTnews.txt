@@ -1,35 +1,20 @@
-TFT Unlock Tools-2024-6.1.1.1
+TFT Unlock Tools-2024-6.2.1.1
 
-XIAOMI
-Fastboot
-Auth - Server
-[FB] REBOOT EDL - Token ID & Ubl (Without Credit)
-META
-[META] READ INFO
-[META] ERASE FRP
-[META] RESET MICLOUD
-[META] FACTORY RESET
-[META] RESET MICLOUD
-SIDELOAD
-[Fixed] ERASE FRP New Function
+SAMSUNG
+EDL/BROM
+[ADD] Samsung Galaxy A20S(All Bit)
+[EDL] ERASE FRP
+FUNCTION
+[ADB] SAMSUNG MDM BYPASS 1
+[ADB] SAMSUNG MDM BYPASS 2
+[ADB] Disabling KG 
+[ADB] Disabling Knox
 
-Mi Flash
-FASTBOOT
-[Added] Disable Micloud
-[Added] Micloud Rom
-[Added] Reset Micloud
-[Added] Erase EFS
-EDL 9008
-[Added] Server (Xiaomi Devices EDL Mode Without Auth, Without Credit)
+ADB
+Read Screen Pattren (Adb/Root)
 
 Qualcomm New
-Support Flash [OFP | XMI | FULL DUMP]
-Read/Write Firmware, Format,Erase, Partition Manager 
-Factory reset | Erase frp | Readback | Flash | Reset Micloud | SAFE FORMAT
-Set Boot A | Set Boot B | Unlock Bl | Restore Efs | Wipe Efs |Backup Efs
-Erase Huawei ID | Full Dump
-Server Auth (XIAOMI/OPPO/VIVO/SAMSUNG/HUAWEI/MEIZU/)
-SAMSUNG New
+SAMSUNG 
 Samsung Galaxy A20s [SM-A207F]
 Samsung Galaxy A52 5G [SM-A526U]
 Samsung Galaxy A71 5G UW [SM-A716V]
@@ -37,7 +22,7 @@ Samsung Galaxy Note10 [SM-N970U]
 Samsung Galaxy Note20 Ultra 5G [SM-N986U U5]
 Samsung Galaxy S21 Ultra [SM-G998U U9]
 Samsung Galaxy S21 PLUS 5G [SM-G996U U9]
-OPPO New
+OPPO 
 Oppo A3s [CPH1803]
 Oppo A3s [CPH1853]
 Oppo Reno 5 5G [CPH2145]
@@ -51,7 +36,7 @@ One Plus 8T V1 [KB2001]
 One Plus 9 Pro [LE2120]
 One Plus Nord N10 5G [BE2029]
 One Plus Nord N200 5G [DE2117]
-MEIZU New
+MEIZU 
 Meizu 16 Plus [M1892]
 Meizu 16S [M1971]
 Meizu 16S Pro [M1973]
@@ -64,9 +49,20 @@ Meizu 17 Pro [M2091]
 Meizu M15 [M1871]
 
 SPREADTRUM
+SERVER2
+TECNO
+Tecno Spark 8C [KG5k]
+Tenco Pova Neo [LE6h]
+ITEL
+iTel A57 [A611WP]
+iTel vision 1 Pro [L6502]
+iTel Vision 2s [P651L]
+INFINIX
+Infinix Hot 12 Pro [X668-V37]
+REALME
+Realme C30s RMX3690 12-A24
+Realme C35 RMX3511PU
+Realme C53 RMX3760
+Realme Narzo 50i RMX3235
+Realme Narzo 50A Prime RMX3516
 [Fixed] Bugs,Issues
-[Enhanced/Improved] Unisoc Protocol
-[Add] BOOT DEVICE
-
-NOKIA
-[ADB] NOKIA MDM BYPASS 2022-2023
